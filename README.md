@@ -1,2 +1,12 @@
-# First_Project_Repository
-This is how I learn, by doing.  So I am doing.  Get ready Data Science World, here I come.  
+# Food Sales Predictions
+  - Prediction of sales for food items sold at various stores.
+  - Kevin S. Fitzgerald
+
+## Loading Data
+
+## Data Cleaning
+
+## Exploratory Visuals
+
+## Explanatory Visuals
+
